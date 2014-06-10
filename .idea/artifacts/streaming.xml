@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="streaming">
+    <output-path>G:/streaming-dev/out/artifacts</output-path>
+    <root id="archive" name="streaming.jar">
+      <element id="module-output" name="streaming-dev" />
+    </root>
+  </artifact>
+</component>
